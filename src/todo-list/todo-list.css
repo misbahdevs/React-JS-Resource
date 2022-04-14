@@ -1,0 +1,14 @@
+ul li {
+    list-style: none;
+    border: 2px solid turquoise;
+    padding: 10px;
+    margin: 10px;
+    border-radius: .4rem;
+}
+div {
+    margin-bottom: 2rem;
+}
+div label {
+    font-size: 20px;
+    font-weight: 500;
+}
